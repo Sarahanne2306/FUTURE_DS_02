@@ -1,8 +1,4 @@
-# FUTURE_DS_02
-Data Science &amp; Analytics Internship AT FUTURE INTERNS
-
-# TASK 2; VISUALIZATION.
-## IPL Data Analysis with Power BI.
+# IPL Data Analysis with Power BI.
 
 This repository contains a Power BI project for analyzing IPL (Indian Premier League) data. The goal is to create insightful visualizations that help explore key metrics and patterns within the data.
 
